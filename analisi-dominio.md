@@ -1,9 +1,10 @@
 # Analisi di dominio
 
 ## ER diagrams
+    
 ```mermaid
 erDiagram
-    Verbale ||..|| Contante : "has fixed number of"
+    Verbale ||--|| Contante : "has fixed number of"
     Contante ||--|| ImportoRiferimento : "defined by"
     Contante ||--|| QuantitaContante : has
     Verbale ||--|{ Varie : has
@@ -13,22 +14,22 @@ erDiagram
 ```
 
 ### Legenda significati relazione
-@startmermaid
+```mermaid
 erDiagram
     A |o..o| B : Zero or more
-@endmermaid
-@startmermaid
+```
+```mermaid
 erDiagram
     A |o..o| B : Exactly 1
-@endmermaid
-@startmermaid
+```
+```mermaid
 erDiagram
     A }o..o{ B : Zero or more (no upper limit)
-@endmermaid
-@startmermaid
+```
+```mermaid
 erDiagram
     A }|..|{ B : One or more (no upper limit)
-@endmermaid
+```
 
 ## Lettura giacenze di cassa
 
