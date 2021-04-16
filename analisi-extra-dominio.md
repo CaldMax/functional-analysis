@@ -3,15 +3,12 @@
 # Interazioni
 ## Impianti organizzativi
 
-| **Obiettivo** | **Input** | **Output** |
-| --- | --- | --- |
-| elenco delle filiali della banca e relativa denominazione | nessuno | elenco di coppie (filiale(numero), denominazione(stringa)) |
-
 |**Obiettivo**|**Input**|**Output**|
 |---|---|---|
 | elenco delle filiali della banca e relativa denominazione | nessuno | elenco di coppie (filiale(numero), denominazione(stringa)) |
 
 ## Contabilità
+
 |**Obiettivo**|**Input**|**Output**|
 |---|---|---|
 |lettura del mastro di contabilità associato ad una cassa cassa|numero di cassa|mastro contabile associato alla cassa|
