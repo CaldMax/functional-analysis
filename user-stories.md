@@ -7,7 +7,7 @@ As a <role> I can <capability>, so that <receive benefit>
 
 ## Stories
 |**Role**|**Capability**|**Receive benefit**|
-|:---|:---|:---|
+|:-------|:-------------|:------------------|
 | utente banca | inserimento verbale per la propria filiale/cassa | avere un promemoria della giacenza di cassa durante la giornata |
 | utente banca | inserimento e stampa verbale per la propria filiale/cassa | chiudere ufficialmente la situazione di cassa giornaliera |
 | utente banca | stampa di un verbale di cassa non precedentemente stampato | avere un'evidenza da cui partire per la compilazione di un nuovo verbale |
@@ -19,3 +19,9 @@ As a <role> I can <capability>, so that <receive benefit>
 | preposto di filiale | stampa di tutti i verbali di cassa inseriti in una data filiale e/o cassa | verificare la corretta applicazione del regolamento della banca |
 
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
