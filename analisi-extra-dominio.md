@@ -6,6 +6,10 @@
 | --- | --- | --- |
 | elenco delle filiali della banca e relativa denominazione | nessuno | elenco di coppie (filiale(numero), denominazione(stringa)) |
 
+|**Role**|**Capability**|**Receive benefit**|
+|---|---|---|
+| utente banca | inserimento verbale per la propria filiale/cassa | avere un promemoria della giacenza di cassa durante la giornata |
+
 ## Contabilità
 |**Obiettivo**|**Input**|**Output**|
 |---|---|---|
