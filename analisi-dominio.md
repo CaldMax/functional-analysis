@@ -1,7 +1,7 @@
 # Analisi di dominio
 
 ## ER diagrams
-@startmermaid
+```mermaid
 erDiagram
     Verbale ||..|| Contante : "has fixed number of"
     Contante ||--|| ImportoRiferimento : "defined by"
@@ -10,18 +10,7 @@ erDiagram
     Varie ||--|| ID : "defined by"
     Varie ||--|| QuantitaVarie : has
     Verbale ||--|| Stampa : has
-@endmermaid
-
-<div class="mermaid">
-erDiagram
-    Verbale ||..|| Contante : "has fixed number of"
-    Contante ||--|| ImportoRiferimento : "defined by"
-    Contante ||--|| QuantitaContante : has
-    Verbale ||--|{ Varie : has
-    Varie ||--|| ID : "defined by"
-    Varie ||--|| QuantitaVarie : has
-    Verbale ||--|| Stampa : has
-</div>
+```
 
 ### Legenda significati relazione
 @startmermaid
