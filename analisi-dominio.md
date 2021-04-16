@@ -26,16 +26,15 @@ nav_order: 5
 
 ## Interazioni
 
-```mermaid
-graph LR
-    verbale -- chiede la giacenza --> cassa
-    verbale -- chiede i codici di voci varie --> parametri di dominio cassa
-    verbale -- comunica la giacenza --> taglio contante / varie
-    verbale -- legge la giacenza dichiarata --> taglio contante / varie
-    verbale -- aggiorna la giacenza --> cassa
-    verbale -- chiede l'utente attivo --> sessione
-    verbale -- verifica autorizzazioni per l'utente attivo --> contabilità
-```
+|**Da**|**interazione**|**A**|
+|---|---|---|
+|verbale| chiede la giacenza|cassa|
+|verbale| chiede i codici di voci varie | parametri di dominio cassa|
+|verbale| comunica la giacenza | taglio contante / varie|
+|verbale| legge la giacenza dichiarata | taglio contante / varie|
+|verbale| aggiorna la giacenza | cassa|
+|verbale| chiede l'utente attivo | sessione|
+|verbale| verifica autorizzazioni per l'utente attivo | contabilità|
 
 ## ettura giacenze di cassa
 
