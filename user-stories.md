@@ -6,7 +6,7 @@ As a <role> I can <capability>, so that <receive benefit>
 ```
 
 ## Stories
-|**Role**|**Capability**|**Receive benefit**|
+| Role| Capability| Receive benefit |
 |:-------|:-------------|:------------------|
 | utente banca | inserimento verbale per la propria filiale/cassa | avere un promemoria della giacenza di cassa durante la giornata |
 | utente banca | inserimento e stampa verbale per la propria filiale/cassa | chiudere ufficialmente la situazione di cassa giornaliera |
