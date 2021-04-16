@@ -2,13 +2,14 @@
 
 # Interazioni
 ## Impianti organizzativi
+
 | **Obiettivo** | **Input** | **Output** |
 | --- | --- | --- |
 | elenco delle filiali della banca e relativa denominazione | nessuno | elenco di coppie (filiale(numero), denominazione(stringa)) |
 
-|**Role**|**Capability**|**Receive benefit**|
+|**Obiettivo**|**Input**|**Output**|
 |---|---|---|
-| utente banca | inserimento verbale per la propria filiale/cassa | avere un promemoria della giacenza di cassa durante la giornata |
+| elenco delle filiali della banca e relativa denominazione | nessuno | elenco di coppie (filiale(numero), denominazione(stringa)) |
 
 ## Contabilità
 |**Obiettivo**|**Input**|**Output**|
