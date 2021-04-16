@@ -17,5 +17,4 @@ nav_order: 1
 - Graphical User Interface
     - [Elenco protipi GUI](elenco-protipi.GUI.md)
     - [Capabilities & Validation](GUI-capabilities-validation.md)
-- [Analisi della funzionalità in dominio](analisi-dominio.md)
-- [Analisi della funzionalità extra dominio](analisi-extra-dominio.md)
+- [Analisi di dominio](analisi-dominio.md)

@@ -149,7 +149,7 @@ nav_order: 4
         - visualizzazione dal saldo di contabilità legato al mastro contabile della filiale + cassa selezionate 
     - validation / behaviour:
         - dato di sola lettura
-        - valore determinato dalla lettura del saldo di contabilità descritta in [Analisi extra dominio](analisi-extra-dominio.md)
+        - valore determinato dalla lettura del saldo di contabilità descritta in [Analisi di dominio](analisi-dominio.md)
         - per l'interpretazione del segno algebrico si veda [Analisi di dominio](analisi-dominio.md)
 2. **Saldo giacenza**
     - capability:
@@ -217,5 +217,5 @@ nav_order: 4
         - azioni eseguite alla pressione del pulsante
             - scrittura per persistere il verbale di cassa 
             - se l'operatore ha espresso il desiderio di produrre la stampa del verbale, produzione della stampa cartacea
-            - se il verbale ha evidenziato una **Differenza** diversa da zero, produzione della scrittura contabile di rettifica (si veda [Analisi extra dominio](analisi-extra-dominio.md)
+            - se il verbale ha evidenziato una **Differenza** diversa da zero, produzione della scrittura contabile di rettifica (si veda [Analisi di dominio](analisi-dominio.md)
             - se il verbale ha evidenziato una o più differenze nelle giacenze in **Gestione delle giacenze di contante messe a verbale** o **Gestione delle giacenze "varie" messe a verbale**, aggiornamento delle giacenze con i nuovi valori
