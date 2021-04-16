@@ -1,3 +1,9 @@
+---
+layout: default
+title: GUI Capabilities & Validation
+nav_order: 4
+---
+
 # GUI Capabilities & Validation 
 
 ## Gestione verbali di cassa

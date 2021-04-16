@@ -1,3 +1,9 @@
+---
+layout: default
+title: Analisi funzionale
+nav_order: 1
+---
+
 # Analisi funzionale
 
 ## Dominio: **Cassa**

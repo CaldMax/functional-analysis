@@ -1,3 +1,9 @@
+---
+layout: default
+title: User Stories
+nav_order: 2
+---
+
 # User Stories
 
 ## Template base

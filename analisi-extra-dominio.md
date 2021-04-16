@@ -1,3 +1,9 @@
+---
+layout: default
+title: Analisi extra dominio
+nav_order: 6
+---
+
 # Analisi extra dominio
 
 # Interazioni

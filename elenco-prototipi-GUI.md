@@ -1,3 +1,9 @@
+---
+layout: default
+title: Elenco prototipi GUI
+nav_order: 3
+---
+
 # Prototipi GUI
 
 ![Schema GUI 1](./Images/GUI1.png)

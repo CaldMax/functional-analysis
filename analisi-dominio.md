@@ -1,3 +1,9 @@
+---
+layout: default
+title: Analisi di dominio
+nav_order: 5
+---
+
 # Analisi di dominio
 
 ## ER diagrams
