@@ -109,7 +109,6 @@ nav_order: 4
         - immagine identificativa della voce di giacenza di cassa identificata dalla codifica opportuna (vedi [Analisi di dominio](analisi-dominio.md)) 
     - validation / behaviour:
         - visualizzazione dell'immagine relativa al taglio di contante
-        - effettuazione dei calcoli in base al valore di riferimento dell'entità di dominio (vedi [Analisi di dominio](analisi-dominio.md))
 2. **Quantità dichiarata + Importo effettivo**
     - capability:
         - imputazione da parte dell'operatore della quantità di giacenza che si dichiara essere presente in cassa per la voce in oggetto
