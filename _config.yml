@@ -1,3 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 logo: "/Images/just-the-docs.jpg"
+
+theme: jekyll-theme-leap-day
