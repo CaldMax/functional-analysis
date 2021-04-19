@@ -65,7 +65,7 @@ nav_order: 4
         - impostazione dei valori di data, filiale e cassa a cui il verbale si riferisce
     - validation / behaviour:
         - per i campi valgono le stesse regole citate nei punti **1**, **2**, **3**, **4** di **Gestione verbali di cassa**
-        - i campi sono modificabili sono da utenti aventi l'abilitazione di utente master in [Analisi di dominio](analisi-dominio.md)
+        - i campi sono modificabili solo da utenti aventi l'abilitazione di utente master in [Analisi di dominio](analisi-dominio.md)
 2. **Quantità dichiarata**
     - capability:
         - imputazione da parte dell'operatore della quantità di contante che si dichiara essere presente in cassa
