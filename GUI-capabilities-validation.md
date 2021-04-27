@@ -15,12 +15,14 @@ nav_order: 4
     - validation / behaviour:
         - un solo valore
         - qualsiasi valore minore della data odierna
+        - valore di default pari alla data odierna
 2. **Filiale**
     - capability:
         - impostazione della filiale di filtro della lista dei verbali
     - validation / behaviour:
         - un solo valore
-        - selezionato dall'elenco delle filiali della banca 
+        - selezionato dall'elenco delle filiali della banca
+        - valore di default pari alla filiale collegata al terminale da cui lavoro l'utente
 3. **Cassa**
     - capability:
         - impostazione della cassa di filtro della lista dei verbali
