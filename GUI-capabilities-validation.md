@@ -15,12 +15,14 @@ nav_order: 4
     - validation / behaviour:
         - un solo valore
         - qualsiasi valore minore della data odierna
+        - valore di default pari alla data odierna
 2. **Filiale**
     - capability:
         - impostazione della filiale di filtro della lista dei verbali
     - validation / behaviour:
         - un solo valore
-        - selezionato dall'elenco delle filiali della banca 
+        - selezionato dall'elenco delle filiali della banca
+        - valore di default pari alla filiale collegata al terminale da cui lavoro l'utente
 3. **Cassa**
     - capability:
         - impostazione della cassa di filtro della lista dei verbali
@@ -65,7 +67,7 @@ nav_order: 4
         - impostazione dei valori di data, filiale e cassa a cui il verbale si riferisce
     - validation / behaviour:
         - per i campi valgono le stesse regole citate nei punti **1**, **2**, **3**, **4** di **Gestione verbali di cassa**
-        - i campi sono modificabili sono da utenti aventi l'abilitazione di utente master in [Analisi di dominio](analisi-dominio.md)
+        - i campi sono modificabili solo da utenti aventi l'abilitazione di utente master in [Analisi di dominio](analisi-dominio.md)
 2. **Quantità dichiarata**
     - capability:
         - imputazione da parte dell'operatore della quantità di contante che si dichiara essere presente in cassa
@@ -109,7 +111,6 @@ nav_order: 4
         - immagine identificativa della voce di giacenza di cassa identificata dalla codifica opportuna (vedi [Analisi di dominio](analisi-dominio.md)) 
     - validation / behaviour:
         - visualizzazione dell'immagine relativa al taglio di contante
-        - effettuazione dei calcoli in base al valore di riferimento dell'entità di dominio (vedi [Analisi di dominio](analisi-dominio.md))
 2. **Quantità dichiarata + Importo effettivo**
     - capability:
         - imputazione da parte dell'operatore della quantità di giacenza che si dichiara essere presente in cassa per la voce in oggetto
