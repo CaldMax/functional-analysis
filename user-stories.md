@@ -25,7 +25,3 @@ As a <role> I can <capability>, so that <receive benefit>
 | preposto di filiale | stampa di tutti i verbali di cassa inseriti in una data filiale e/o cassa | verificare la corretta applicazione del regolamento della banca |
 
 
-# TEST
-![Alt](./Images/test.svg)
-
-
