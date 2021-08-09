@@ -23,3 +23,7 @@ As a <role> I can <capability>, so that <receive benefit>
 | utente banca master | inserimento e stampa verbale per filiale/cassa non proprie | chiudere ufficialmente la situazione di cassa giornaliera per un collega mancante |
 | utente banca | visualizzazione di un verbale di cassa precedentemente inserito | verificare l'origine di una scrittura contabile correttiva |
 | preposto di filiale | stampa di tutti i verbali di cassa inseriti in una data filiale e/o cassa | verificare la corretta applicazione del regolamento della banca |
+
+
+# TEST
+![Alt](./Images/test.png)
