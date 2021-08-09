@@ -26,6 +26,6 @@ As a <role> I can <capability>, so that <receive benefit>
 
 
 # TEST
-![Alt](./Images/test)
+![Alt](./Images/test.svg)
 
 
